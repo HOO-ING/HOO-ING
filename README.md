@@ -32,10 +32,3 @@
   </div>
 </div>
 <br>
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=HOO-ING&show_icons=true&theme=radical" alt="HOO-ING's GitHub stats">
-
-</div>
-<br>
