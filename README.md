@@ -24,10 +24,3 @@
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
   </div>
 </div>
-<br>
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Most Used Languages ✨ </h2>
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOO-ING&layout=compact)
-  
-<br>
